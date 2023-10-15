@@ -1,7 +1,8 @@
 package Task3;
 
 import org.assertj.core.api.Assertions;
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
+
 
 public class task3Test {
         public static void main(String[] args) {
